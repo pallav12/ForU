@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1064106069731",
+    "firebase_url": "https://foru-798be.firebaseio.com",
+    "project_id": "foru-798be",
+    "storage_bucket": "foru-798be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064106069731:android:1e779dffca5a7fcd",
+        "android_client_info": {
+          "package_name": "com.alonemusk.foru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064106069731-16u1c6en2d00jkbul1dktat7kmfkebfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alonemusk.foru",
+            "certificate_hash": "1d960af7e928e8adc8659aa331e8d10788816b3d"
+          }
+        },
+        {
+          "client_id": "1064106069731-b71i4bg68n6m98p9f3krkq4q2ismsgm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZwIebo3ZwPa3IC70aNxOrDMLt5dxcQOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064106069731-b71i4bg68n6m98p9f3krkq4q2ismsgm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
